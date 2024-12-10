@@ -1,0 +1,14 @@
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\bin\Debug\net8.0\ConsoleAppIraTriangle.exe
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\bin\Debug\net8.0\ConsoleAppIraTriangle.deps.json
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\bin\Debug\net8.0\ConsoleAppIraTriangle.runtimeconfig.json
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\bin\Debug\net8.0\ConsoleAppIraTriangle.dll
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\bin\Debug\net8.0\ConsoleAppIraTriangle.pdb
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.AssemblyInfo.cs
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.dll
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\refint\ConsoleAppIraTriangle.dll
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.pdb
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ConsoleAppIraTriangle.genruntimeconfig.cache
+C:\Users\prdb\source\repos\ConsoleAppIraTriangle\ConsoleAppIraTriangle\obj\Debug\net8.0\ref\ConsoleAppIraTriangle.dll
